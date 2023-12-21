@@ -1,0 +1,25 @@
+
+* {
+    box-sizing: border-box;
+}
+
+.circle {
+    border: 3px solid #fe9a51;
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+  }
+  
+  .stroka {
+    background-color: #fe9a51;
+    height: 3px;
+    width: 64px;
+  }
+
+  i {
+    color: #fe9a51;
+    vertical-align: middle;
+  }
